@@ -1,0 +1,10 @@
+The training data (train.csv) should be downloaded from the Winton Stock Market Challenge on Kaggle directly.
+*******Direct link to the training data********
+https://www.kaggle.com/c/the-winton-stock-market-challenge/download/train.csv
+
+
+Required libraries are specified in requirements.yml
+To create the virtual environment, please run: 
+conda env create -f requirements.yml
+
+Python version: python 3.6
